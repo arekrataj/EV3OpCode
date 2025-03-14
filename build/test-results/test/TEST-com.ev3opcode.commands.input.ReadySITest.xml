@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ev3opcode.commands.input.ReadySITest" tests="14" skipped="0" failures="0" errors="0" timestamp="2025-03-14T09:06:47" hostname="DESKTOP-2OC3TGI" time="0.023">
+  <properties/>
+  <testcase name="getBytes_ReadySI2_expectedByteCode" classname="com.ev3opcode.commands.input.ReadySITest" time="0.012"/>
+  <testcase name="getBytes_ReadySI1_lengthOf8" classname="com.ev3opcode.commands.input.ReadySITest" time="0.0"/>
+  <testcase name="getBytes_ReadySI1_expectedByteCode" classname="com.ev3opcode.commands.input.ReadySITest" time="0.0"/>
+  <testcase name="getBytes_ReadySI3_lengthOf8" classname="com.ev3opcode.commands.input.ReadySITest" time="0.001"/>
+  <testcase name="allocatedGlobalBlockSize_ReadySI1_4" classname="com.ev3opcode.commands.input.ReadySITest" time="0.0"/>
+  <testcase name="allocatedGlobalBlockSize_ReadySI2_0" classname="com.ev3opcode.commands.input.ReadySITest" time="0.0"/>
+  <testcase name="allocatedLocalBlockSize_ReadySI1_0" classname="com.ev3opcode.commands.input.ReadySITest" time="0.0"/>
+  <testcase name="ctor_referenceToNumberOfValuesAndNoAllocationInformation_throwsException" classname="com.ev3opcode.commands.input.ReadySITest" time="0.002"/>
+  <testcase name="getBytes_ReadySI2_lengthOf9" classname="com.ev3opcode.commands.input.ReadySITest" time="0.0"/>
+  <testcase name="getBytes_ReadySI3_expectedByteCode" classname="com.ev3opcode.commands.input.ReadySITest" time="0.001"/>
+  <testcase name="allocatedLocalBlockSize_ReadySI2_16" classname="com.ev3opcode.commands.input.ReadySITest" time="0.0"/>
+  <testcase name="getSize_ReadySI1_8" classname="com.ev3opcode.commands.input.ReadySITest" time="0.001"/>
+  <testcase name="getSize_ReadySI2_9" classname="com.ev3opcode.commands.input.ReadySITest" time="0.001"/>
+  <testcase name="getSize_ReadySI3_8" classname="com.ev3opcode.commands.input.ReadySITest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

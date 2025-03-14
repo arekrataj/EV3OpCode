@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ev3opcode.common.arguments.PortNumberValueTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-03-14T09:06:48" hostname="DESKTOP-2OC3TGI" time="0.004">
+  <properties/>
+  <testcase name="setPortNumber_twp_setsValue" classname="com.ev3opcode.common.arguments.PortNumberValueTest" time="0.002"/>
+  <testcase name="getPortNumber_returnsThree" classname="com.ev3opcode.common.arguments.PortNumberValueTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

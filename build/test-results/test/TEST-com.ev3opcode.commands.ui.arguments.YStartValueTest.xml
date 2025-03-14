@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ev3opcode.commands.ui.arguments.YStartValueTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2025-03-14T09:06:47" hostname="DESKTOP-2OC3TGI" time="0.003">
+  <properties/>
+  <testcase name="setYStart_lessThanZero_throwsException" classname="com.ev3opcode.commands.ui.arguments.YStartValueTest" time="0.001"/>
+  <testcase name="setYStart_13_setsValue" classname="com.ev3opcode.commands.ui.arguments.YStartValueTest" time="0.0"/>
+  <testcase name="setYStart_greaterThan127_throwsException" classname="com.ev3opcode.commands.ui.arguments.YStartValueTest" time="0.001"/>
+  <testcase name="getYStart_return123" classname="com.ev3opcode.commands.ui.arguments.YStartValueTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

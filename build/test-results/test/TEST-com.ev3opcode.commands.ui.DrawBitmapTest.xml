@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ev3opcode.commands.ui.DrawBitmapTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2025-03-14T09:06:47" hostname="DESKTOP-2OC3TGI" time="0.007">
+  <properties/>
+  <testcase name="getSize_DrawBitmap_25" classname="com.ev3opcode.commands.ui.DrawBitmapTest" time="0.003"/>
+  <testcase name="allocatedGlobalBlockSize_DrawBitmap_0" classname="com.ev3opcode.commands.ui.DrawBitmapTest" time="0.0"/>
+  <testcase name="allocatedLocalBlockSize_DrawBitmap_0" classname="com.ev3opcode.commands.ui.DrawBitmapTest" time="0.0"/>
+  <testcase name="xStartValue_positive200_throwsException" classname="com.ev3opcode.commands.ui.DrawBitmapTest" time="0.001"/>
+  <testcase name="getBytes_FillWindow_expectedByteCode" classname="com.ev3opcode.commands.ui.DrawBitmapTest" time="0.001"/>
+  <testcase name="getBytes_DrawBitmap_lengthOf25" classname="com.ev3opcode.commands.ui.DrawBitmapTest" time="0.0"/>
+  <testcase name="xStartValue_negative_throwsException" classname="com.ev3opcode.commands.ui.DrawBitmapTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

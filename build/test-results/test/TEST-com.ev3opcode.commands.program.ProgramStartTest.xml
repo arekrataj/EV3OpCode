@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ev3opcode.commands.program.ProgramStartTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-03-14T09:06:47" hostname="DESKTOP-2OC3TGI" time="0.007">
+  <properties/>
+  <testcase name="getBytes_ProgramStart_lengthOf5" classname="com.ev3opcode.commands.program.ProgramStartTest" time="0.004"/>
+  <testcase name="allocatedGlobalBlockSize_ProgramStart_0" classname="com.ev3opcode.commands.program.ProgramStartTest" time="0.001"/>
+  <testcase name="getBytes_ProgramStart_expectedByteCode" classname="com.ev3opcode.commands.program.ProgramStartTest" time="0.0"/>
+  <testcase name="allocatedLocalBlockSize_ProgramStart_0" classname="com.ev3opcode.commands.program.ProgramStartTest" time="0.0"/>
+  <testcase name="getSize_ProgramStart_5" classname="com.ev3opcode.commands.program.ProgramStartTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

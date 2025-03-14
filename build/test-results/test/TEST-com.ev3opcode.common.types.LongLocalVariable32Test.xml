@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ev3opcode.common.types.LongLocalVariable32Test" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-03-14T09:06:48" hostname="DESKTOP-2OC3TGI" time="0.001">
+  <properties/>
+  <testcase name="getBytes_positive123456789_following4Bytes" classname="com.ev3opcode.common.types.LongLocalVariable32Test" time="0.0"/>
+  <testcase name="getBytes_zero_following4Bytes" classname="com.ev3opcode.common.types.LongLocalVariable32Test" time="0.0"/>
+  <testcase name="setValue_negative2147483648_throwsException" classname="com.ev3opcode.common.types.LongLocalVariable32Test" time="0.0"/>
+  <testcase name="getSize_zero_fiveBytes" classname="com.ev3opcode.common.types.LongLocalVariable32Test" time="0.001"/>
+  <testcase name="getBytes_negative123456789_following4Bytes" classname="com.ev3opcode.common.types.LongLocalVariable32Test" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

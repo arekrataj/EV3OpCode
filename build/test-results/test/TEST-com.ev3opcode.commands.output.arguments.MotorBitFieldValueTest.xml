@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ev3opcode.commands.output.arguments.MotorBitFieldValueTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-03-14T09:06:47" hostname="DESKTOP-2OC3TGI" time="0.004">
+  <properties/>
+  <testcase name="isSetMotorD_returnsFalse" classname="com.ev3opcode.commands.output.arguments.MotorBitFieldValueTest" time="0.001"/>
+  <testcase name="setMotors_TFFT_setsValues" classname="com.ev3opcode.commands.output.arguments.MotorBitFieldValueTest" time="0.001"/>
+  <testcase name="isSetMotorA_returnsFalse" classname="com.ev3opcode.commands.output.arguments.MotorBitFieldValueTest" time="0.0"/>
+  <testcase name="isSetMotorC_returnsTrue" classname="com.ev3opcode.commands.output.arguments.MotorBitFieldValueTest" time="0.0"/>
+  <testcase name="isSetMotorB_returnsTrue" classname="com.ev3opcode.commands.output.arguments.MotorBitFieldValueTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

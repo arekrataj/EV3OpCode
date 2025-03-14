@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ev3opcode.common.tools.BinaryConverterTest" tests="20" skipped="0" failures="0" errors="0" timestamp="2025-03-14T09:06:48" hostname="DESKTOP-2OC3TGI" time="0.024">
+  <properties/>
+  <testcase name="shortFromTwoBytesLE_negative99_convertedShort" classname="com.ev3opcode.common.tools.BinaryConverterTest" time="0.002"/>
+  <testcase name="intFromFourBytesLE_negative911_convertedInteger" classname="com.ev3opcode.common.tools.BinaryConverterTest" time="0.0"/>
+  <testcase name="unpackFrom5Bits_negative6_unpackedByte" classname="com.ev3opcode.common.tools.BinaryConverterTest" time="0.0"/>
+  <testcase name="shortToTwoBytesLE_negative32768_throwsException" classname="com.ev3opcode.common.tools.BinaryConverterTest" time="0.001"/>
+  <testcase name="intFromFourBytesLE_positive123456789_convertedInteger" classname="com.ev3opcode.common.tools.BinaryConverterTest" time="0.001"/>
+  <testcase name="shortToTwoBytesLE_positive1984_convertedBytes" classname="com.ev3opcode.common.tools.BinaryConverterTest" time="0.0"/>
+  <testcase name="intFromFourBytesLE_positive911_convertedInteger" classname="com.ev3opcode.common.tools.BinaryConverterTest" time="0.001"/>
+  <testcase name="shortFromTwoBytesLE_positive2019_convertedShort" classname="com.ev3opcode.common.tools.BinaryConverterTest" time="0.001"/>
+  <testcase name="intToFourBytesLE_positive13021984_convertedBytes" classname="com.ev3opcode.common.tools.BinaryConverterTest" time="0.001"/>
+  <testcase name="unpackFrom5Bits_positive10_unpackedByte" classname="com.ev3opcode.common.tools.BinaryConverterTest" time="0.002"/>
+  <testcase name="packTo5Bits_positive24_packedByte" classname="com.ev3opcode.common.tools.BinaryConverterTest" time="0.001"/>
+  <testcase name="packTo5Bits_negative24_packedByte" classname="com.ev3opcode.common.tools.BinaryConverterTest" time="0.002"/>
+  <testcase name="shortFromTwoBytesLE_positive99_convertedShort" classname="com.ev3opcode.common.tools.BinaryConverterTest" time="0.0"/>
+  <testcase name="shortToTwoBytesLE_negative1984_convertedBytes" classname="com.ev3opcode.common.tools.BinaryConverterTest" time="0.002"/>
+  <testcase name="floatFromFourBytesLE_1111011_1coma72ExponentMinus43" classname="com.ev3opcode.common.tools.BinaryConverterTest" time="0.001"/>
+  <testcase name="intToFourBytesLE_negative13021984_convertedBytes" classname="com.ev3opcode.common.tools.BinaryConverterTest" time="0.001"/>
+  <testcase name="intToFourBytesLE_negative2147483648_throwsException" classname="com.ev3opcode.common.tools.BinaryConverterTest" time="0.0"/>
+  <testcase name="shortFromTwoBytesLE_negative2019_convertedShort" classname="com.ev3opcode.common.tools.BinaryConverterTest" time="0.001"/>
+  <testcase name="intFromFourBytesLE_negative123456789_convertedInteger" classname="com.ev3opcode.common.tools.BinaryConverterTest" time="0.0"/>
+  <testcase name="unpackFrom5Bits_positive6_unpackedByte" classname="com.ev3opcode.common.tools.BinaryConverterTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

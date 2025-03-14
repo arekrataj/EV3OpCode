@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ev3opcode.commands.file.LoadImageTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2025-03-14T09:06:47" hostname="DESKTOP-2OC3TGI" time="0.026">
+  <properties/>
+  <testcase name="LoadImageReturnedValues_responseBuffer_properValues" classname="com.ev3opcode.commands.file.LoadImageTest" time="0.017"/>
+  <testcase name="allocatedGlobalBlockSize_LoadImage_8" classname="com.ev3opcode.commands.file.LoadImageTest" time="0.0"/>
+  <testcase name="getSize_LoadImage_36" classname="com.ev3opcode.commands.file.LoadImageTest" time="0.001"/>
+  <testcase name="allocatedLocalBlockSize_LoadImage_0" classname="com.ev3opcode.commands.file.LoadImageTest" time="0.001"/>
+  <testcase name="getBytes_LoadImage_lengthOf36" classname="com.ev3opcode.commands.file.LoadImageTest" time="0.001"/>
+  <testcase name="getBytes_LoadImage_expectedByteCode" classname="com.ev3opcode.commands.file.LoadImageTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

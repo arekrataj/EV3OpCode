@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ev3opcode.common.DirectResponseTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2025-03-14T09:06:47" hostname="DESKTOP-2OC3TGI" time="0.007">
+  <properties/>
+  <testcase name="fromByteCode_empty_messageNumber256" classname="com.ev3opcode.common.DirectResponseTest" time="0.003"/>
+  <testcase name="fromByteCode_byteCodeLengthLessThan5_throwsException" classname="com.ev3opcode.common.DirectResponseTest" time="0.001"/>
+  <testcase name="fromByteCode_empty_emptyResponseBuffer" classname="com.ev3opcode.common.DirectResponseTest" time="0.0"/>
+  <testcase name="fromByteCode_response_size7bytes" classname="com.ev3opcode.common.DirectResponseTest" time="0.0"/>
+  <testcase name="fromByteCode_empty_size3bytes" classname="com.ev3opcode.common.DirectResponseTest" time="0.0"/>
+  <testcase name="fromByteCode_response_messageNumber3" classname="com.ev3opcode.common.DirectResponseTest" time="0.001"/>
+  <testcase name="fromByteCode_empty_ResponseTypeOK" classname="com.ev3opcode.common.DirectResponseTest" time="0.001"/>
+  <testcase name="fromByteCode_response_ResponseTypeOK" classname="com.ev3opcode.common.DirectResponseTest" time="0.0"/>
+  <testcase name="fromByteCode_response_responseBuffer" classname="com.ev3opcode.common.DirectResponseTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

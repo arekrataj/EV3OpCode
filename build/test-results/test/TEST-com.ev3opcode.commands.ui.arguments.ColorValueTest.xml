@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ev3opcode.commands.ui.arguments.ColorValueTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-03-14T09:06:47" hostname="DESKTOP-2OC3TGI" time="0.001">
+  <properties/>
+  <testcase name="getColor_returnsBlack" classname="com.ev3opcode.commands.ui.arguments.ColorValueTest" time="0.001"/>
+  <testcase name="setColor_white_setsValue" classname="com.ev3opcode.commands.ui.arguments.ColorValueTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

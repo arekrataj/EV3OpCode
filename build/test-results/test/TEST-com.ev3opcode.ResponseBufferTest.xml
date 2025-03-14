@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ev3opcode.ResponseBufferTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2025-03-14T09:06:47" hostname="DESKTOP-2OC3TGI" time="0.024">
+  <properties/>
+  <testcase name="read_wholeBuffer_fourBytes" classname="com.ev3opcode.ResponseBufferTest" time="0.012"/>
+  <testcase name="read_zeroBuffer_throwsException" classname="com.ev3opcode.ResponseBufferTest" time="0.003"/>
+  <testcase name="read_oneByte_oneByte" classname="com.ev3opcode.ResponseBufferTest" time="0.0"/>
+  <testcase name="getSize_buffer_4" classname="com.ev3opcode.ResponseBufferTest" time="0.003"/>
+  <testcase name="read_lastByte_oneByte" classname="com.ev3opcode.ResponseBufferTest" time="0.001"/>
+  <testcase name="read_startExceedsBufferSize_throwsException" classname="com.ev3opcode.ResponseBufferTest" time="0.0"/>
+  <testcase name="read_lengthExceedsBufferSize_throwsException" classname="com.ev3opcode.ResponseBufferTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

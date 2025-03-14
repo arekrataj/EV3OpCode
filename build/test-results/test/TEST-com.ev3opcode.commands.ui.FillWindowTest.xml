@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ev3opcode.commands.ui.FillWindowTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2025-03-14T09:06:47" hostname="DESKTOP-2OC3TGI" time="0.025">
+  <properties/>
+  <testcase name="allocatedLocalBlockSize_FillWindow_0" classname="com.ev3opcode.commands.ui.FillWindowTest" time="0.005"/>
+  <testcase name="getBytes_FillWindow_lengthOf5" classname="com.ev3opcode.commands.ui.FillWindowTest" time="0.001"/>
+  <testcase name="ySizeValue_128_throwsException" classname="com.ev3opcode.commands.ui.FillWindowTest" time="0.001"/>
+  <testcase name="getSize_FillWindow_5" classname="com.ev3opcode.commands.ui.FillWindowTest" time="0.001"/>
+  <testcase name="yStartValue_32bit_throwsException" classname="com.ev3opcode.commands.ui.FillWindowTest" time="0.001"/>
+  <testcase name="getBytes_FillWindow_expectedByteCode" classname="com.ev3opcode.commands.ui.FillWindowTest" time="0.002"/>
+  <testcase name="ySizeValue_negative_throwsException" classname="com.ev3opcode.commands.ui.FillWindowTest" time="0.011"/>
+  <testcase name="allocatedGlobalBlockSize_FillWindow_0" classname="com.ev3opcode.commands.ui.FillWindowTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

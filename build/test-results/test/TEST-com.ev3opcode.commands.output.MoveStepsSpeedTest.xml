@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ev3opcode.commands.output.MoveStepsSpeedTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2025-03-14T09:06:47" hostname="DESKTOP-2OC3TGI" time="0.008">
+  <properties/>
+  <testcase name="PowerLevel_negative101_throwsException" classname="com.ev3opcode.commands.output.MoveStepsSpeedTest" time="0.005"/>
+  <testcase name="allocatedLocalBlockSize_MoveStepSpeed_0" classname="com.ev3opcode.commands.output.MoveStepsSpeedTest" time="0.001"/>
+  <testcase name="allocatedGlobalBlockSize_MoveStepSpeed_0" classname="com.ev3opcode.commands.output.MoveStepsSpeedTest" time="0.0"/>
+  <testcase name="getBytes_MoveStepSpeed_expectedByteCode" classname="com.ev3opcode.commands.output.MoveStepsSpeedTest" time="0.001"/>
+  <testcase name="getSize_MoveStepSpeed_13" classname="com.ev3opcode.commands.output.MoveStepsSpeedTest" time="0.001"/>
+  <testcase name="PowerLevel_positive101_throwsException" classname="com.ev3opcode.commands.output.MoveStepsSpeedTest" time="0.0"/>
+  <testcase name="getBytes_MoveStepSpeed_lengthOf13" classname="com.ev3opcode.commands.output.MoveStepsSpeedTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

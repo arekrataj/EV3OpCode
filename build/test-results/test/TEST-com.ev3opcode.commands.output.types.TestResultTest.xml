@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ev3opcode.commands.output.types.TestResultTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2025-03-14T09:06:47" hostname="DESKTOP-2OC3TGI" time="0.005">
+  <properties/>
+  <testcase name="isBusyPortD_set_returnsTrue" classname="com.ev3opcode.commands.output.types.TestResultTest" time="0.002"/>
+  <testcase name="isBusyPortA_set_returnsTrue" classname="com.ev3opcode.commands.output.types.TestResultTest" time="0.001"/>
+  <testcase name="isBusyPortA_notSet_returnsFalse" classname="com.ev3opcode.commands.output.types.TestResultTest" time="0.0"/>
+  <testcase name="isBusyPortB_notSet_returnsFalse" classname="com.ev3opcode.commands.output.types.TestResultTest" time="0.0"/>
+  <testcase name="isBusyPortC_notSet_returnsFalse" classname="com.ev3opcode.commands.output.types.TestResultTest" time="0.0"/>
+  <testcase name="isBusyPortD_notSet_returnsFalse" classname="com.ev3opcode.commands.output.types.TestResultTest" time="0.0"/>
+  <testcase name="isBusyPortB_set_returnsTrue" classname="com.ev3opcode.commands.output.types.TestResultTest" time="0.0"/>
+  <testcase name="isBusyPortC_set_returnsTrue" classname="com.ev3opcode.commands.output.types.TestResultTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ev3opcode.common.arguments.ArgumentValueTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2025-03-14T09:06:48" hostname="DESKTOP-2OC3TGI" time="0.008">
+  <properties/>
+  <testcase name="ShortConstantTestArgument_getBytes_byteCode" classname="com.ev3opcode.common.arguments.ArgumentValueTest" time="0.001"/>
+  <testcase name="LongConstant32TestArgument_getBytes_byteCode" classname="com.ev3opcode.common.arguments.ArgumentValueTest" time="0.004"/>
+  <testcase name="LongStringTestArgument_getBytes_byteCode" classname="com.ev3opcode.common.arguments.ArgumentValueTest" time="0.001"/>
+  <testcase name="LongConstant16TestArgument_getBytes_byteCode" classname="com.ev3opcode.common.arguments.ArgumentValueTest" time="0.0"/>
+  <testcase name="LongConstant8TestArgument_getBytes_byteCode" classname="com.ev3opcode.common.arguments.ArgumentValueTest" time="0.0"/>
+  <testcase name="LongStringTestArgument_getSize_sixBytes" classname="com.ev3opcode.common.arguments.ArgumentValueTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

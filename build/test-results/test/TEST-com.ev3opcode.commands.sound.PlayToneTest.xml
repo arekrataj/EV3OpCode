@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ev3opcode.commands.sound.PlayToneTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2025-03-14T09:06:47" hostname="DESKTOP-2OC3TGI" time="0.011">
+  <properties/>
+  <testcase name="volumeValueArgument_101_throwsException" classname="com.ev3opcode.commands.sound.PlayToneTest" time="0.002"/>
+  <testcase name="getBytes_PlayTone_lengthOf9" classname="com.ev3opcode.commands.sound.PlayToneTest" time="0.001"/>
+  <testcase name="getSize_PlayTone_9" classname="com.ev3opcode.commands.sound.PlayToneTest" time="0.004"/>
+  <testcase name="frequencyValueArgument_zero_throwsException" classname="com.ev3opcode.commands.sound.PlayToneTest" time="0.0"/>
+  <testcase name="getBytes_PlayTone_expectedByteCode" classname="com.ev3opcode.commands.sound.PlayToneTest" time="0.001"/>
+  <testcase name="durationValueArgument_32bits_throwsException" classname="com.ev3opcode.commands.sound.PlayToneTest" time="0.0"/>
+  <testcase name="frequencyValueArgument_1000000_throwsException" classname="com.ev3opcode.commands.sound.PlayToneTest" time="0.001"/>
+  <testcase name="volumeValueArgument_negative_throwsException" classname="com.ev3opcode.commands.sound.PlayToneTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ev3opcode.common.arguments.FileNameValueTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-03-14T09:06:48" hostname="DESKTOP-2OC3TGI" time="0.001">
+  <properties/>
+  <testcase name="getName_returnsTestFileName" classname="com.ev3opcode.common.arguments.FileNameValueTest" time="0.0"/>
+  <testcase name="setName_FileName_setsValue" classname="com.ev3opcode.common.arguments.FileNameValueTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

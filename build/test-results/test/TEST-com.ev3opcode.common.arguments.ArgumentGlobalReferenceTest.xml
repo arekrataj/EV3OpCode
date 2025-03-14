@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ev3opcode.common.arguments.ArgumentGlobalReferenceTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2025-03-14T09:06:47" hostname="DESKTOP-2OC3TGI" time="0.037">
+  <properties/>
+  <testcase name="LongGlobalVariable32TestArgument_getBytes_byteCode" classname="com.ev3opcode.common.arguments.ArgumentGlobalReferenceTest" time="0.005"/>
+  <testcase name="ShortGlobalVariableTestArgument_getBytes_byteCode" classname="com.ev3opcode.common.arguments.ArgumentGlobalReferenceTest" time="0.0"/>
+  <testcase name="LongGlobalVariable16TestArgument_getBytes_byteCode" classname="com.ev3opcode.common.arguments.ArgumentGlobalReferenceTest" time="0.003"/>
+  <testcase name="LongGlobalVariable8TestArgument_getBytes_byteCode" classname="com.ev3opcode.common.arguments.ArgumentGlobalReferenceTest" time="0.009"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

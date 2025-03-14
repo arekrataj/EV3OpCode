@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ev3opcode.common.DirectCommandTest" tests="10" skipped="0" failures="0" errors="0" timestamp="2025-03-14T09:06:47" hostname="DESKTOP-2OC3TGI" time="0.008">
+  <properties/>
+  <testcase name="getBytes_commands_expectedByteCodes" classname="com.ev3opcode.common.DirectCommandTest" time="0.003"/>
+  <testcase name="addCommand_localMemoryHungryCommand_throwsException" classname="com.ev3opcode.common.DirectCommandTest" time="0.001"/>
+  <testcase name="getBytes_5_byteCodes" classname="com.ev3opcode.common.DirectCommandTest" time="0.001"/>
+  <testcase name="getSize_empty_5" classname="com.ev3opcode.common.DirectCommandTest" time="0.0"/>
+  <testcase name="getMessageNumber_5_5" classname="com.ev3opcode.common.DirectCommandTest" time="0.0"/>
+  <testcase name="getSize_commands_46" classname="com.ev3opcode.common.DirectCommandTest" time="0.001"/>
+  <testcase name="getBytes_empty_7" classname="com.ev3opcode.common.DirectCommandTest" time="0.0"/>
+  <testcase name="getBytes_commands_48" classname="com.ev3opcode.common.DirectCommandTest" time="0.0"/>
+  <testcase name="addCommand_globalMemoryHungryCommand_throwsException" classname="com.ev3opcode.common.DirectCommandTest" time="0.001"/>
+  <testcase name="getBytes_empty_expectedByteCodes" classname="com.ev3opcode.common.DirectCommandTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

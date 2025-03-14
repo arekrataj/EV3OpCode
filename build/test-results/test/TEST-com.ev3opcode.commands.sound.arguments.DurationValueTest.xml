@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ev3opcode.commands.sound.arguments.DurationValueTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2025-03-14T09:06:47" hostname="DESKTOP-2OC3TGI" time="0.002">
+  <properties/>
+  <testcase name="getDuration_returns256" classname="com.ev3opcode.commands.sound.arguments.DurationValueTest" time="0.001"/>
+  <testcase name="setDuration_greaterThan16bit_throwsException" classname="com.ev3opcode.commands.sound.arguments.DurationValueTest" time="0.0"/>
+  <testcase name="setDuration_1000_setsValue" classname="com.ev3opcode.commands.sound.arguments.DurationValueTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
